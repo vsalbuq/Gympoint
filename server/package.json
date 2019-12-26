@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Gym management app server",
+  "main": "src/index.js",
+  "author": "Vinícius Albuquerque",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

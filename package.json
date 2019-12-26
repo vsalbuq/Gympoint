@@ -1,0 +1,11 @@
+{
+  "name": "gympoint",
+  "description": "Gym management app",
+  "authors": "Vinícius Albuquerque",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "server",
+    "clients/*"
+  ]
+}
